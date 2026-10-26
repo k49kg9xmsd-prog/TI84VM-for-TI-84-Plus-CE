@@ -1,4 +1,3 @@
-````markdown
 # TI84VM beta
 
 TI84VM is an experimental Flash App for the TI-84 Plus CE. It recreates parts of the calculator interface and adds customization and plugin support.
@@ -61,4 +60,3 @@ Bug reports are welcome. Please include your calculator model, OS version, steps
 ---
 
 TI84VM is an independent community project and is not affiliated with Texas Instruments.
-````

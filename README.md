@@ -53,7 +53,7 @@ You can also delete leftover installer files (`TVMINST` and `TVM9A0`–`TVM9A2`)
 
 ## Source code and feedback
 
-The C/eZ80 source is available in `TI84VM-Beta-Source.zip` under **Releases**.
+The complete C/eZ80 source code is available directly in this repository.
 
 Bug reports are welcome. Please include your calculator model, OS version, steps to reproduce, and a photo or screenshot if possible. **Do not upload your ROM or personal calculator identifiers.**
 

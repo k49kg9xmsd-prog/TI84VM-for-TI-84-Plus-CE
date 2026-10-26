@@ -1,0 +1,7 @@
+/* Native OS 5.8.1 error screens. */
+#define ERROR_REF_OFFSET 60036u
+#define ERROR_REF_RUNS 3002u
+#define ERROR_SYNTAX_OFFSET 61294u
+#define ERROR_SYNTAX_RUNS 2929u
+#define ERROR_DOMAIN_OFFSET 62598u
+#define ERROR_DOMAIN_RUNS 3202u
